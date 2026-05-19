@@ -35,7 +35,7 @@ const Partnerships = () => {
       <section 
         className="bg-cover bg-center bg-fixed text-white py-32"
         style={{
-          backgroundImage: 'linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)), url("https://i.imgur.com/y77NBvz.jpeg")',
+          backgroundImage: 'linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)), url("/handshake.jpg")',
           backgroundAttachment: 'fixed'
         }}
       >
